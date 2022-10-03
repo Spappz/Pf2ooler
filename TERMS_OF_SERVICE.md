@@ -10,11 +10,11 @@ The Pf2ooler Discord Bot, henceforth referred to as 'Pf2ooler' or 'the service' 
 
 When using Pf2ooler, you must follow these rules. We reserve the right to inhibit users who breach our rules from using parts of the service or the entire service.
 
-- You must abide by (Discord's terms of service)[https://discord.com/terms]
-- You may not use Pf2ooler in such a way that it imposes an unreasonable or disproportionate strain on the service's network or computer infrastructure
-- You may not use Pf2ooler to harm or harass other users in any way, or use it as a platform to promote insulting or demeaning content
-- You may not use any automated technology such as a robot or scraper to access, scrape, or data-mine the service
-- You may not use Pf2ooler to break the law in any way
+- You must abide by [Discord's terms of service](https://discord.com/terms).
+- You may not use Pf2ooler in such a way that it imposes an unreasonable or disproportionate strain on the service's network or computer infrastructure.
+- You may not use Pf2ooler to harm or harass other users in any way, or use it as a platform to promote insulting or demeaning content.
+- You may not use any automated technology such as a robot or scraper to access, scrape, or data-mine the service.
+- You may not use Pf2ooler to break the law in any way.
 
 The previous list is not exhausive and should be considered a guideline for appropriate behaviour.
 
