@@ -22,8 +22,8 @@ Pf2ooler may temporarily store additional information from the service's users. 
 
 ### Third-party privacy policies
 
-The service may include hyperlinks to other websites or services, where Pf2ooler's privacy polciy does not apply. We advise that you consult the respective services' privacy policies before use.
+The service may include hyperlinks to other websites or services, where Pf2ooler's privacy policy does not apply. We advise that you consult the respective services' privacy policies before use.
 
 ### Policy changes
 
-We reserve the right to change this privacy policy at any time without prior notice. You should review this file from time to time. By continuing to use the service, you agree to the new policy. Changes to this policy will be highlighted for at least 30 days after such changes are made.
+We reserve the right to change this privacy policy at any time without prior notice. You should review this file from time to time to note any changes. By continuing to use the service, you agree to the new policy.
