@@ -1,4 +1,4 @@
-# [ˈpiː.ɛfˌtu.lə]
+# [ˈpʰiː.ɛfˌtʰu.lə]
 
 Pf2ooler is a Discord bot that helps you look up Pathfinder 2nd edition rule content and roll dice.
 
