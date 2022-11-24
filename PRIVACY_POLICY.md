@@ -13,8 +13,8 @@ By using Pf2ooler you consent to this privacy policy and agree to its terms.
 Pf2ooler stores some aggregated information for the purpose of locating malicious actors. This data comprises the following:
 
 - The total number of uses of the service per user (stored as the user's Discord user ID)
-- The total nubmer of uses of the service per server (stored as the server's Discord guild ID)
-- The total number of uses of each of the service's application interactions ('slash commands') by all of its users
+- The total number of uses of the service per server (stored as the server's Discord guild ID)
+- The total number of uses of each of the service's application interactions ('slash commands'), irrespective of the user
 
 The service does not request nor access any data that is not publicly available via the Discord API. Pf2ooler cannot read the messages in your server, guild, or channel. Pf2ooler does not access or store the member list of your server, guild, or channel; user-specific data is only gathered on use of the service.
 

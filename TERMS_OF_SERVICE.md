@@ -16,7 +16,7 @@ When using Pf2ooler, you must follow these rules. We reserve the right to inhibi
 - You may not use any automated technology such as a robot or scraper to access, scrape, or data-mine the service.
 - You may not use Pf2ooler to break the law in any way.
 
-The previous list is not exhausive and should be considered a guideline for appropriate behaviour.
+The previous list is not exhaustive and should be considered a guideline for appropriate behaviour.
 
 ### Limitation of liability
 
