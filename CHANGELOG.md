@@ -10,7 +10,7 @@
 - The bot's activity (the "Playing ..." line on its profile) now slowly cycles around random Paizo adventure paths and modules and whatnot
 - Added Skill text on `/lookup action` embeds
 - Made it onto Discord's app directory 🥳
-- (Updated to lastest Pf2eTools data)
+- (Updated to latest Pf2eTools data)
 
 ### 1.5.1
 - Fixed spell duration rendering
