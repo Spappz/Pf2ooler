@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.0 _Assisting Bot_ edition
+- Added `/lookup creature image`
+- Afflictions now show 'Tempted Curse' text
+- Fixed some miscellaneous rendering bugs
+- (Updated to latest Pf2eTools data)
+
 ## 1.6.0 _Lucky Dip_ edition
 - Moved `/lookup weapon group` command to `/lookup item group` because I only just realised that armour groups also exist (the command always let you do this but I was simply too :galaxyBrain: to notice)
 - Moved `/roll critical` command group to `/draw critical` because I can't just decide things just once
