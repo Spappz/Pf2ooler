@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.7.1
+- (Updated to latest Pf2eTools data)
+
 ## 1.7.0 _Assisting Bot_ edition
 - Added `/lookup creature image`
 - Afflictions now show 'Tempted Curse' text
