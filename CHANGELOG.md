@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.7.2
+- Fixed `successDegree` rendering bug
+
 ### 1.7.1
 - (Updated to latest Pf2eTools data)
 
