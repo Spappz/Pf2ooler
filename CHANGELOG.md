@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.7.3
+- Fixed incorrectly rendering variable tags
+
 ### 1.7.2
 - Fixed `successDegree` rendering bug
 
