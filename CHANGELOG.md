@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.8.0 _All Kitted Out_ edition
+- Added `/lookup item statblock` command (only for 'base' weapons, armour, and shields so far; adventuring gear and magic items coming Soon™)
+- Added new `secret` option value to certain `/roll` commands to allow the result to be posted publicly, but with all dice and totals spoilered
+- Hid some entity-counts from `/view stats` because we've run out of space in the embed!
+- Improved error messages
+- (Updated to latest Pf2eTools data)
+
 ### 1.7.3
 - Fixed incorrectly rendering variable tags
 
@@ -10,7 +17,7 @@
 - (Updated to latest Pf2eTools data)
 
 ## 1.7.0 _Assisting Bot_ edition
-- Added `/lookup creature image`
+- Added `/lookup creature image` command
 - Afflictions now show 'Tempted Curse' text
 - Fixed some miscellaneous rendering bugs
 - (Updated to latest Pf2eTools data)
