@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.8.1
+- Fixed Range entries reporting in units of "feets"
+- (Updated to latest Pf2eTools data)
+
 ## 1.8.0 _All Kitted Out_ edition
 - Added `/lookup item statblock` command (only for 'base' weapons, armour, and shields so far; adventuring gear and magic items coming Soon™)
 - Added new `secret` option value to certain `/roll` commands to allow the result to be posted publicly, but with all dice and totals spoilered
