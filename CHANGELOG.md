@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.9.1
+- (Pf2eTools) Typos
+
 ## 1.9.0 _All Spruced Up_ edition
 - Add `/lookup creature summary` command, which shows a summary (wow!) of the creature's statblock. *Note:* This command will be superseded by `/lookup creature statblock`, once it's ready, and its current function will change to fill a new niche.
 - Split out `/lookup` commands' "!random" option into their own `/random` commands (warned you!)
@@ -8,7 +11,7 @@
 - Improved action emojis (no more squished-up 3-action symbol!)
 - Started copying specifically relevant Pf2eTools changelog entries into the Pf2ooler changelog (for people that follow Pf2ooler but not Pf2eTools)
 - (Pf2eTools) Added missing creature images for converted sources
-- (Typos)
+- (Pf2eTools) Typos
 
 ### 1.8.1
 - Fixed Range entries reporting in units of "feets"
