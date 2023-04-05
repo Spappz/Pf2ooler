@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.9.1
+- Stop the update script from overwriting the new v1.9.0 emojis so you can actually see them 🥲
 - (Pf2eTools) Typos
 
 ## 1.9.0 _All Spruced Up_ edition
