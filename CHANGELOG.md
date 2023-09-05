@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.10.0 _Still Alive_ edition
+- Datatype and level, where pertinent, has been moved to the top of the `/lookup` embed
+- Fixed a variety of minor display issues
+- Improved a variety of internal processing workflows
+- (Pf2eTools) Lots more content! Treasure Vault, Rage of Elements (feats only), Gatewalkers, various modules and one-shots...
+- (Pf2eTools) Many, many typos
+
 ### 1.9.2
 - Fixed an extremely minor 'code' injection exploit
 
