@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.10.1
+- (Pf2eTools) A few more creature images
+- (Pf2eTools) Typos
+
 ## 1.10.0 _Still Alive_ edition
 - Datatype and level, where pertinent, has been moved to the top of the `/lookup` embed
 - Fixed a variety of minor display issues
