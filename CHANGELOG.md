@@ -1,7 +1,8 @@
 # Changelog
 
 ### 1.10.1
-- (Pf2eTools) A few more creature images
+- (Pf2eTools) More *Rage of Elements* content
+- (Pf2eTools) *Player Core* spells and rituals
 - (Pf2eTools) Typos
 
 ## 1.10.0 _Still Alive_ edition
