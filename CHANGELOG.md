@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.10.2
+- Make the `/roll table` command actually work as expected rather than just picking a random row (a bit experimental—please tell me if there's bugs!)
+
 ### 1.10.1
 - (Pf2eTools) More *Rage of Elements* content
 - (Pf2eTools) *Player Core* spells and rituals
