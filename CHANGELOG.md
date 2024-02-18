@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.10.3
+- Display an error message when dice-group notation (e.g. `{1d4,2d6}`) is attempted, rather than just crashing (support coming Soon™)
+
 ### 1.10.2
 - Make the `/roll table` command actually work as expected rather than just picking a random row (a bit experimental—please tell me if there's bugs!)
 
