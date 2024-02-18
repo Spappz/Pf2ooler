@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Pf2ooler is operated solely by Discord user `spap#9812` ("Spappz"). You can contact me by email at `34202141+Spappz [at] users.noreply.github.com`, or via Discord.
+Pf2ooler is operated solely by Discord user `spap` ("Spappz"). You can contact me by email at `34202141+Spappz [at] users.noreply.github.com`, or via Discord.
 
 ### Consent
 
