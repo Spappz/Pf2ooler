@@ -1,4 +1,4 @@
-# [ˈpʰiː.ɛfˌtʰu.lə]
+# [ˈpʰiː.ɛfˌtʰuː.lə]
 **Pf2ooler** is a Discord bot that helps you look up Pathfinder 2nd edition statblocks and roll dice. We're close friends with the [Pf2ools](https://pf2oo.ls/) project!
 
 ## Installation
