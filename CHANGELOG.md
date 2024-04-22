@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.11.0 _Getting Dicey_ edition
+- `/roll` commands made with the `secret:Spoilered` option are now even *more* secret, as random elements are now padded to fill the same space (although expressions with 'die-replacing' modifiers, such as `1d6rr<3` and `1d20min10`, aren't)
+- `/roll check`'s `modifiers` option now supports comma-separated lists, such as `/roll check modifiers:10,-3,2d4+1`
+- Fix rare bug in multi-`count` `/roll`s would get cut-off half-way through
+- (Pf2eTools) Typos
+
 ### 1.10.3
 - Display an error message when dice-group notation (e.g. `{1d4,2d6}`) is attempted, rather than just crashing (support coming Soon™)
 
