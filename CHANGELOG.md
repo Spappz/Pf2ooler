@@ -1,9 +1,9 @@
 # Changelog
 
 ## 1.11.0 _Getting Dicey_ edition
-- `/roll` commands made with the `secret:Spoilered` option are now even *more* secret, as random elements are now padded to fill the same space (although expressions with 'die-replacing' modifiers, such as `1d6rr<3` and `1d20min10`, aren't)
-- `/roll check`'s `modifiers` option now supports comma-separated lists, such as `/roll check modifiers:10,-3,2d4+1`
-- Fix rare bug in multi-`count` `/roll`s would get cut-off half-way through
+- `/roll` commands made with the `secret:Spoilered` option are now *even more* secret, as die-rolls are now padded to fill the same space (caveats for expressions with 'die-replacing' modifiers, such as `1d6rr<3` and `1d20min10`)
+- `/roll check`'s `modifiers` option now supports comma-separated lists (e.g. `/roll check modifiers:10,-3,2d4+1`)
+- Fix rare bug where `/roll` responses with high `count`s would get cut-off half-way through
 - (Pf2eTools) Typos
 
 ### 1.10.3
