@@ -1,5 +1,16 @@
 # Changelog
 
+### 1.11.1 _Snake Eyes_ edition
+- Fix rendering of creatures' context-specific skill modifiers
+- Some more improvements behind the scenes on the dice-interpreter
+- (Pf2eTools) Lots of new content added!
+  - *Season of Ghosts Player's Guide*
+  - *Season of Ghosts #1: The Summer That Never Was*
+  - *Season of Ghosts #2: Let the Leaves Fall*
+  - *Seven Dooms for Sandpoint Player's Guide*
+  - *Wardens of Wildwood Player's Guide*
+- (Pf2eTools) Typos
+
 ## 1.11.0 _Getting Dicey_ edition
 - `/roll` commands made with the `secret:Spoilered` option are now *even more* secret, as die-rolls are now padded to fill the same space (caveats for expressions with 'die-replacing' modifiers, such as `1d6rr<3` and `1d20min10`)
 - `/roll check`'s `modifiers` option now supports comma-separated lists (e.g. `/roll check modifiers:10,-3,2d4+1`)
