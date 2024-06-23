@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.12.0 _Length Contraction_ edition
+- Allow the bot to display at least _some_ of a statblock, even if the whole thing's too long for Discord's API
+- Make `/lookup` commands always show all matches, even if the results are identically named
+- (Pf2eTools) Added *Lost Omens: Tian Xia World Guide*
+- (Pf2eTools) Added *Season of Ghosts #3: No Breath to Cry* 
+- (Pf2eTools) Added *Wake the Dead* comics #1–5
+- (Pf2eTools) Typos
+
 ### 1.11.1 _Snake Eyes_ edition
 - Fix rendering of creatures' context-specific skill modifiers
 - Some more improvements behind the scenes on the dice-interpreter
