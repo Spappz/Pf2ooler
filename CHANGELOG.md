@@ -1,5 +1,21 @@
 # Changelog
 
+### 1.12.1
+- (Pf2eTools) Added *A Few Flowers More*
+- (Pf2eTools) Added *Absalom: City of Lost Omens*
+- (Pf2eTools) Added *Blood Lords Player's Guide*
+- (Pf2eTools) Added *Dinner at Lionlodge*
+- (Pf2eTools) Added *Gatewalkers #2: They Watched the Stars*
+- (Pf2eTools) Added *Malevolence*
+- (Pf2eTools) Added *Mark of the Mantis*
+- (Pf2eTools) Added *Quest for the Frozen Flame Player's Guide*
+- (Pf2eTools) Added *Rusthenge *
+- (Pf2eTools) Added *Season of Ghosts #4: To Bloom Below the Web*
+- (Pf2eTools) Added *Shadows at Sundown*
+- (Pf2eTools) Added *Stolen Fate Player's Guide*
+- (Pf2eTools) Added *The Enmity Cycle*
+- (Pf2eTools) Typos
+
 ## 1.12.0 _Length Contraction_ edition
 - Allow the bot to display at least _some_ of a statblock, even if the whole thing's too long for Discord's API
 - Make `/lookup` commands always show all matches, even if the results are identically named
