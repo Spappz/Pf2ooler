@@ -9,7 +9,7 @@
 - (Pf2eTools) Added *Malevolence*
 - (Pf2eTools) Added *Mark of the Mantis*
 - (Pf2eTools) Added *Quest for the Frozen Flame Player's Guide*
-- (Pf2eTools) Added *Rusthenge *
+- (Pf2eTools) Added *Rusthenge*
 - (Pf2eTools) Added *Season of Ghosts #4: To Bloom Below the Web*
 - (Pf2eTools) Added *Shadows at Sundown*
 - (Pf2eTools) Added *Stolen Fate Player's Guide*
