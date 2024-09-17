@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.13.0 _Big Data_ edition
+- Allow `/lookup` commands to return *even more* results, offering a random selection (exact matches prioritised) unless there's a truly staggering number
+- Update `/view help` and `/view licenses` text
+- (Pf2eTools) Added *Curtain Call Player's Guide*
+- (Pf2eTools) Added *Lost Omens: Highhelm*
+- (Pf2eTools) Added *Wardens of Wildwood* #1–2
+- (Pf2eTools) Typos
+
 ### 1.12.1
 - (Pf2eTools) Added *A Few Flowers More*
 - (Pf2eTools) Added *Absalom: City of Lost Omens*
@@ -56,7 +64,7 @@
 - Datatype and level, where pertinent, has been moved to the top of the `/lookup` embed
 - Fixed a variety of minor display issues
 - Improved a variety of internal processing workflows
-- (Pf2eTools) Lots more content! Treasure Vault, Rage of Elements (feats only), Gatewalkers, various modules and one-shots...
+- (Pf2eTools) Lots more content! *Treasure Vault*, *Rage of Elements* (feats only), *Gatewalkers*, various modules and one-shots...
 - (Pf2eTools) Many, many typos
 
 ### 1.9.2
