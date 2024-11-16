@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.14.0 _User Feedback_ edition
+- Added a `reroll` option to `/roll check`, to let you roll two d20s and choose either the highest/lowest.
+- If you try to interact with another user's drop-down menu (from a `/lookup`), the bot will now ~~shout at you~~ offer you a handy button to view your selection privately.
+- (Pf2eTools) Added *Triumph of the Tusk: Player's Guide*
+- (Pf2eTools) Added *Wardens of Wildwood #3: Shepherd of Decay*
+- (Pf2eTools) Typos
+
 ## 1.13.0 _Big Data_ edition
 - Allow `/lookup` commands to return *even more* results, offering a random selection (exact matches prioritised) unless there's a truly staggering number
 - Update `/view help` and `/view licenses` text
