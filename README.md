@@ -15,4 +15,6 @@ Some documentation can be found in the [wiki](../../wiki). You can also come cha
 
 ## Previews
 
-<img src="https://storage.ko-fi.com/cdn/useruploads/display/fb524e4e-8f42-473a-9565-d18d07495e4d_2022-09-20_01-29-00_%E2%80%A2_discord__h__pf2ooler_testing_server_%E2%80%94_mozilla_f.png" width="550px">
+![image](https://github.com/user-attachments/assets/5c88ac3a-d236-45d7-a731-9904490e9b98)
+
+
