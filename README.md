@@ -15,6 +15,6 @@ Some documentation can be found in the [wiki](../../wiki). You can also come cha
 
 ## Previews
 
-![image](https://github.com/user-attachments/assets/5c88ac3a-d236-45d7-a731-9904490e9b98)
+![image](https://raw.githubusercontent.com/Spappz/Pf2ooler/refs/heads/master/_docs/example.webp)
 
 
