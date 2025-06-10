@@ -7,15 +7,13 @@
 - (Pf2eTools) Added *Player Core 2* backgrounds, general/skill feats, and spells
 - (Pf2eTools) Added *Shades of Blood Player's Guide*
 - (Pf2eTools) Added *Spore War Player's Guide*
-- (Pf2eTools) Added *Triumph of the Tusk Player's Guide*
 - (Pf2eTools) Added *War of Immortals* spells
-- (Pf2eTools) Added *Wardens of Wildwood #3: Shepherd of Decay*
 - (Pf2eTools) Typos
 
 ## 1.14.0 _User Feedback_ edition
 - Added a `reroll` option to `/roll check`, to let you roll two d20s and choose either the highest/lowest.
 - If you try to interact with another user's drop-down menu (from a `/lookup`), the bot will now ~~shout at you~~ offer you a handy button to view your selection privately.
-- (Pf2eTools) Added *Triumph of the Tusk: Player's Guide*
+- (Pf2eTools) Added *Triumph of the Tusk Player's Guide*
 - (Pf2eTools) Added *Wardens of Wildwood #3: Shepherd of Decay*
 - (Pf2eTools) Typos
 
