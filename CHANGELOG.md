@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.14.2
+- (Pf2eTools) Added *Claws of the Tyrant*
+- (Pf2eTools) Added *Lost Omens: Shining Kingdoms*
+- (Pf2eTools) Added *Myth-Speaker Player's Guide*
+- (Pf2eTools) Added *Rise of the Runelords Player's Guide*
+- (Pf2eTools) Added *Stolen Fate #1: The Choosing*
+- (Pf2eTools) Added *Stolen Fate #2: The Destiny War*
+- (Pf2eTools) Added *Stolen Fate #3: Worst of All Possible Worlds*
+- (Pf2eTools) Typos
+
 ### 1.14.1
 - (Pf2eTools) Added *Howl of the Wild* spells
 - (Pf2eTools) Added *Lost Omens: Rival Academies*
